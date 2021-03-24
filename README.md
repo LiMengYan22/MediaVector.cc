@@ -1,2 +1,2 @@
 # MediaVector.cc
-Función *media* de **Punteros** en vectores con *Cpp* (C++) y llamada a funciones..
+Función *media* de **Punteros** en vectores con *C++* (cpp) y llamada a funciones..
